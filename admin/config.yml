@@ -106,7 +106,6 @@ collections:
             fields:
               - {label: "Prénom", name: first-name, widget: string}
               - {label: "Nom", name: last-name, widget: string}
-              - {label: "Description du speaker", name: description, widget: text}
               - {label: "Photo du speaker (200 x 200 px)", name: picture, widget: image}
 
       - label: "Partenaires"
