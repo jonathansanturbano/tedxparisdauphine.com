@@ -7,11 +7,8 @@ media_folder: "assets/images/uploads"
 display_url: "https://tedxparisdauphine.com"
 
 collections:
-
   - label: "General"
     name: "general"
-    editor:
-         preview: false
     files:
       - label: "Options"
         name: "options"
@@ -34,52 +31,17 @@ collections:
             name: fb-event-url
             widget: string
             pattern: ["https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)", "Doit être une URL valide"]
-
-  - label: "Vidéos"
-    name: "videos"
-
-collections:
-
-  - label: "General"
-    name: "general"
-    editor:
-         preview: false
-    files:
-      - label: "Options"
-        name: "options"
-        file: "_data/options.yml"
-        format: yaml
-        fields:
-          - label: "Page Facebook (URL)"
-            name: facebook-url
-            widget: string
-            pattern: ["https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)", "Doit être une URL valide"]
-          - label: "Billeterie (URL)"
-            name: ticketing-url
-            widget: string
-            pattern: ["https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)", "Doit être une URL valide"]
-          - label: "Billeterie ouverte"
-            name: selling
-            widget: boolean
-            default: false
-          - label: "Événement Facebook (URL)"
-            name: fb-event-url
-            widget: string
-            pattern: ["https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)", "Doit être une URL valide"]
-    folder: "_videos"
     create: true
     slug: "{{year}}"
     format: yaml-frontmatter
     extension: md
-    editor:
-         preview: false
     fields:
       - label: "Année"
         name: year
         widget: string
         pattern: ["\\d{4}", "Doit être de la forme AAAA"]
         default: 2018
-      - {label: "Image de couverture (2100 x 250 px)", name: image, widget: image}
+      - { label: "Image de couverture (2100 x 250 px)", name: image, widget: image }
       - label: "Thème"
         name: theme
         widget: "object"
@@ -90,16 +52,15 @@ collections:
         name: talks
         widget: list
         fields:
-          - {label: "Prénom du speaker", name: speaker-first-name, widget: string}
-          - {label: "Nom du speaker", name: speaker-last-name, widget: string}
-          - {label: "Titre du talk", name: title, widget: string}
-          - {label: "Description", name: description, widget: markdown}
-          - {label: "YouTube video ID", name: youtube-id, widget: string}
-
+          - { label: "Prénom du speaker", name: speaker-first-name, widget: string }
+          - { label: "Nom du speaker", name: speaker-last-name, widget: string }
+          - { label: "Titre du talk", name: title, widget: string }
+          - { label: "Description", name: description, widget: markdown }
+          - { label: "YouTube video ID", name: youtube-id, widget: string }
   - label: "Pages"
     name: pages
     editor:
-         preview: false
+      preview: false
     files:
 
       - label: "Accueil"
@@ -112,16 +73,16 @@ collections:
             name: regular
             widget: object
             fields:
-              - {label: "Titre", name: heading, widget: markdown}
-              - {label: "Sous-titre", name: subheading, widget: markdown}
-              - {label: "Image de couverture (2100 x 750 px)", name: cover-image, widget: image}
+              - { label: "Titre", name: heading, widget: markdown }
+              - { label: "Sous-titre", name: subheading, widget: markdown }
+              - { label: "Image de couverture (2100 x 750 px)", name: cover-image, widget: image }
           - label: "Billeterie ouverte"
             name: ticketing
             widget: object
             fields:
-              - {label: "Titre", name: heading, widget: markdown}
-              - {label: "Sous-titre", name: subheading, widget: markdown}
-              - {label: "Image de couverture (2100 x 750 px)", name: cover-image, widget: image}
+              - { label: "Titre", name: heading, widget: markdown }
+              - { label: "Sous-titre", name: subheading, widget: markdown }
+              - { label: "Image de couverture (2100 x 750 px)", name: cover-image, widget: image }
           - label: "Edition la plus récente"
             name: latest-edition
             widget: string
@@ -131,10 +92,10 @@ collections:
             name: speakers
             widget: list
             fields:
-              - {label: "Prénom", name: first-name, widget: string}
-              - {label: "Nom", name: last-name, widget: string}
-              - {label: "Description du speaker", name: description, widget: text}
-              - {label: "Photo du speaker (125 x 125 px)", name: picture, widget: image}
+              - { label: "Prénom", name: first-name, widget: string }
+              - { label: "Nom", name: last-name, widget: string }
+              - { label: "Description du speaker", name: description, widget: text }
+              - { label: "Photo du speaker (125 x 125 px)", name: picture, widget: image }
 
       - label: "Partenaires"
         name: partners
@@ -146,13 +107,13 @@ collections:
             name: list
             widget: list
             fields:
-              - {label: "Nom", name: name, widget: string}
-              - {label: "Logo (200 x 125 px)", name: logo, widget: image}
+              - { label: "Nom", name: name, widget: string }
+              - { label: "Logo (200 x 125 px)", name: logo, widget: image }
               - label: "Site web (URL)"
                 name: website
                 widget: string
                 pattern: ["https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)", "Doit être une URL valide"]
-              - {label: "Description", name: description, widget: text}
+              - { label: "Description", name: description, widget: text }
 
       - label: "L'association"
         name: association
@@ -160,8 +121,8 @@ collections:
         format: yaml
         extension: yml
         fields:
-          - {label: "Description de l'association", name: association-description, widget: markdown}
-          - {label: "Photo de l'équipe (750 x 400 px)", name: team-picture, widget: image}
+          - { label: "Description de l'association", name: association-description, widget: markdown }
+          - { label: "Photo de l'équipe (750 x 400 px)", name: team-picture, widget: image }
           - label: "Equipe"
             name: teams
             widget: list
@@ -171,7 +132,7 @@ collections:
                 widget: string
                 pattern: ["\\d{4}", "Doit être de la forme AAAA"]
                 default: 2018
-              - {label: "Membres", name: members, widget: text}
+              - { label: "Membres", name: members, widget: text }
 
       - label: "Rejoignez-nous - /rejoignez-nous/"
         name: join-us
@@ -179,11 +140,11 @@ collections:
         format: yaml-frontmatter
         extension: html
         fields:
-          - {label: "Layout", name: layout, widget: hidden}
-          - {label: "Permalink", name: permalink, widget: hidden}
-          - {label: "Titre (réseaux sociaux)", name: title, widget: string}
-          - {label: "Description (réseaux sociaux)", name: description, widget: text}
-          - {label: "Miniature (réseaux sociaux)", name: image, widget: image}
+          - { label: "Layout", name: layout, widget: hidden }
+          - { label: "Permalink", name: permalink, widget: hidden }
+          - { label: "Titre (réseaux sociaux)", name: title, widget: string }
+          - { label: "Description (réseaux sociaux)", name: description, widget: text }
+          - { label: "Miniature (réseaux sociaux)", name: image, widget: image }
           - label: "Formulaire (URL)"
             name: form
             widget: string
