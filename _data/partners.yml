@@ -1,35 +1,102 @@
 list:
-  - name: Université Paris Dauphine
-    logo: /assets/images/uploads/universite-paris-dauphine-tedx-dauphine.png
-    website: http://www.dauphine.fr/
-    description: L’université Paris-Dauphine est un établissement public d’enseignement supérieur et de recherche français spécialisé dans les sciences des organisations et des marchés
+  - description: >-
+      L’Université Paris-Dauphine (membre PSL) est un établissement public
+      d’enseignement supérieur et de recherche français spécialisé dans les
+      sciences des organisations et des marchés. Paris-Dauphine est
+      l'institution d'enseignement supérieur de référence dans le domaine des
+      sciences des organisations et de la décision.
 
-  - name: PSL
-    logo: /assets/images/uploads/psl-tedx-dauphine.png
-    website: https://www.univ-psl.fr/fr
-    description: L’université de recherche Paris Sciences & Lettres est une communauté d'universités et établissements française. Elle regroupe vingt-six institutions.
+      Grand établissement, membre de la Conférence des présidents d'universités
+      et de la Conférence des Grandes Ecoles, Paris-Dauphine développe depuis sa
+      création en 1968 un modèle d'excellence pour en licence, master et
+      doctorat.
+    logo: /assets/images/uploads/dauphine-logo-site-ted.png
+    name: Université Paris Dauphine - PSL
+    website: 'http://www.dauphine.fr/'
+  - description: >
+      LVMH réunit 75 Maisons d'exception, au sein de 6 secteurs d’activité :
+      Vins & Spiritueux, Mode & Maroquinerie, Parfums & Cosmétiques, Montres &
+      Joaillerie, Distribution Sélective, et Autres Activités, dont
+      l’hospitalité, la culture et les arts.
 
-  - name: Ladurée
-    logo: /assets/images/uploads/laduree-tedx-dauphine.png
-    website: https://www.laduree.fr/
-    description: Ladurée, maison de macarons et fabriquant de douceurs depuis 1862, expérience unique de la gourmandise à la française, dispose aujourd'hui de salons de thé et restaurants autour du monde.
 
-  - name: Vaivai
-    logo: /assets/images/uploads/vaivai-tedx-dauphine.png
-    website: https://www.vaivai.fr/fr/
-    description: Spécialiste français, propose depuis 7 ans une sélection d'eaux de coco 100% naturelles pour vous faire (re)découvrir les goûts de la noix de coco.
+      Ce qui rend LVMH unique, c’est l’envie de voir les choses en grand et
+      d’enfreindre les règles. LVMH possède une communauté de 156,000
+      collaborateurs autour du monde, liés par une forte volonté d’innover pour
+      renouveler leur offre et être résolument tournés vers l’avenir, tout en
+      s’inscrivant dans le respect de notre patrimoine.
+    logo: /assets/images/uploads/sans-titre-3-.png
+    name: LVMH
+    website: 'https://www.lvmh.fr/'
+  - description: >
+      AXA Group Operations est le "coeur" technologique du Groupe AXA et le
+      moteur de sa transformation digitale.
 
-  - name: Nature Addicts
-    logo: /assets/images/uploads/nature-addicts-tedx-dauphine.png
-    website: http://www.na-natureaddicts.com/fr
-    description: La marque Nature Addicts, N.A! réinvente le monde du snacking en créant des encas sucrés et salés 100% issus de la nature et surtout délicieux !
 
-  - name: L'ADN
-    logo: /assets/images/uploads/l-adn-tedx-dauphine.png
-    website: http://www.ladn.eu/
-    description: Tous les jours, l'actualité de l'innovation marketing, communication et business, les meilleures start-up, le top des campagnes de publicité.
+      Lancé officiellement en janvier 2019, AXA Group Operations a pour objectif
+      d’aider les entités AXA du monde entier à donner aux personnes les moyens
+      de mener une vie meilleure.
 
-  - name: Heetch
-    logo: /assets/images/uploads/heetch-tedx-dauphine.png
-    website: https://www.heetch.com/
-    description: Heetch de retour et partenaire de TEDx Université Paris-Dauphine ! Il t'accompagne pour ta soirée et te propose son moyen de transport pensé pour la vie nocturne.
+      En tant que «moteur» d’AXA, Group Operations est responsable de la gestion
+      quotidienne de l’activité, ainsi que de la fourniture de solutions
+      essentielles pour son avenir.
+
+
+      Réunissant sept équipes aux expertises variées AXA Group Operations
+      conseille, oriente les choix technologiques et donne un accès à AXA aux
+      innovations qui vont contribuer à sa transformation en tech-led company
+      orientée client.
+    logo: /assets/images/uploads/sans-titre-4-.png
+    name: AXA Group Operations
+    website: 'https://www.linkedin.com/company/axa-group-operations/'
+  - description: >-
+      Oracle Cloud propose une suite complète d’applications intégrées pour les
+      ventes, les services, le marketing, les ressources humaines, la finance,
+      la supply chain et le manufacturing, ainsi qu’une infrastructure de
+      deuxième génération hautement automatisée et sécurisée qui inclut la base
+      de données Oracle Autonomous.
+
+
+      Oracle compte plus de 420 000 clients (dont la totalité des entreprises du
+      classement Fortune 100) représentant une grande variété de secteurs
+      d'activité dans plus de 145 pays à travers le monde.
+    logo: /assets/images/uploads/sans-titre-5-.png
+    name: Oracle
+    website: 'https://www.oracle.com/fr/index.html'
+  - description: >
+      Nell'Armonia est une société de conseil et services, leader dans son
+      domaine : le pilotage de la performance (EPM - Enterprise Performance
+      Management). Ses 150 consultants travaillent pour plus de 300 grands
+      comptes en Europe.
+
+
+      Les clients font appel à Nell'Armonia quand ils ont un projet SI, de mise
+      en place ou d'évolution de leurs outils pour améliorer leur stratégie et
+      sécuriser leurs décisions, principalement dans le domaine de la finance.
+
+
+      Pour mener à bien sa mission, les consultants de Nell'Armonia sont sa
+      force, leurs compétences son actif et leur épanouissement, son capital.
+    logo: /assets/images/uploads/logo_nellarmonia-1-.png
+    name: Nell'Armonia
+    website: 'https://www.nellarmonia.com/'
+  - description: >-
+      Depuis 10 ans FW identifie les nouvelles tendances, découvre les
+      innovations qui impactent de nombreux secteurs, santé, transport, retail,
+      agriculture, énergie, telecom... et les décode au quotidien. Destiné aux
+      Business Decision Makers, FW adresse une audience de plus d'un million de
+      professionnels. Notre rédaction est composée de journalistes,
+      correspondants internationaux, et d'experts, tous passionnés, qui
+      délivrent une information documentée, originale au service de nos
+      lecteurs. Via Linked In, FrenchWeb regroupe la plus importante communauté
+      de professionnels, entrepreneurs, experts, investisseurs francophones du
+      numérique.
+    logo: /assets/images/uploads/sans-titre-7-.png
+    name: Frenchweb
+    website: 'https://www.frenchweb.fr'
+  - description: >-
+      Forbes, le média business à destination des entrepreneurs et
+      décisionnaires.
+    logo: /assets/images/uploads/sans-titre-2-.png
+    name: Forbes France
+    website: 'https://www.forbes.fr/'
