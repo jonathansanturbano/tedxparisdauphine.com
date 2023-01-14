@@ -1,9 +1,8 @@
 regular:
   cover-image: /assets/images/uploads/welcome.png
-  heading: Les vidéos de l'**édition 2021 **sont disponibles!
-  subheading: >-
-    Ne manquez pas nos prochains événements et inscrivez-vous à notre newsletter
-    pour être tenu au courant.
+  heading: Les vidéos de l'**édition 2021** sont disponibles !
+  subheading: Ne manquez pas nos prochains événements et inscrivez-vous à notre
+    newsletter pour être tenu au courant.
 ticketing:
   cover-image: /assets/images/uploads/couverture-fb.png
   heading: |-
@@ -11,38 +10,37 @@ ticketing:
 
     **le 23 mars **!
   subheading: Prenez dès maintenant vos billets (en plus c'est gratuit)
-latest-edition: '2019'
+latest-edition: "2019"
 speakers:
-  - description: ''
+  - description: ""
     first-name: Thierry
     last-name: Marx
     picture: /assets/images/uploads/photo-thierry-marx.png
-  - description: ''
+  - description: ""
     first-name: Shirley
     last-name: Souagnon
     picture: /assets/images/uploads/photo-shirley.png
-  - description: ''
+  - description: ""
     first-name: Noman
     last-name: Hosni
     picture: /assets/images/uploads/photo-noman-hosni.png
-  - description: |+
-
+  - description: "\n"
     first-name: Ousama
     last-name: Bouiss
     picture: /assets/images/uploads/photo-ousama-bouiss.png
-  - description: ''
+  - description: ""
     first-name: Nathalie
     last-name: Gimenes
     picture: /assets/images/uploads/photo-nathalie-gimenes.png
-  - description: ''
+  - description: ""
     first-name: Sharon
     last-name: Sofer
     picture: /assets/images/uploads/photo-sharon-sofer.png
-  - description: ''
+  - description: ""
     first-name: Hervé
     last-name: Alexandre
     picture: /assets/images/uploads/photo-herve.png
-  - description: ''
+  - description: ""
     first-name: Loubna
     last-name: Ksibi
     picture: /assets/images/uploads/photo-loubna.png
