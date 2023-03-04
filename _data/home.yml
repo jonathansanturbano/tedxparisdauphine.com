@@ -4,43 +4,43 @@ regular:
   subheading: Ne manquez pas nos prochains événements et inscrivez-vous à notre
     newsletter pour être tenu au courant.
 ticketing:
-  cover-image: /assets/images/uploads/couverture-fb.png
+  cover-image: /assets/images/uploads/en-quête-bannière-fb.png
   heading: |-
     TEDx revient à Dauphine et cette fois en digital
 
     **le 23 mars **!
   subheading: Prenez dès maintenant vos billets (en plus c'est gratuit)
-latest-edition: "2019"
+latest-edition: "2022"
 speakers:
   - description: ""
-    first-name: Thierry
-    last-name: Marx
-    picture: /assets/images/uploads/photo-thierry-marx.png
+    first-name: Fabien
+    last-name: Olicard
+    picture: /assets/images/uploads/3.png
   - description: ""
-    first-name: Shirley
-    last-name: Souagnon
-    picture: /assets/images/uploads/photo-shirley.png
+    first-name: Malia
+    last-name: Metella
+    picture: /assets/images/uploads/2.png
   - description: ""
-    first-name: Noman
-    last-name: Hosni
-    picture: /assets/images/uploads/photo-noman-hosni.png
+    first-name: Yannis
+    last-name: Sioudan
+    picture: /assets/images/uploads/1.png
+  - description: ""
+    first-name: Valérie
+    last-name: Vitter Mouradian
+    picture: /assets/images/uploads/7.png
+  - description: ""
+    first-name: Marcellino
+    last-name: Dour
+    picture: /assets/images/uploads/8.png
   - description: "\n"
-    first-name: Ousama
-    last-name: Bouiss
-    picture: /assets/images/uploads/photo-ousama-bouiss.png
+    first-name: Emma
+    last-name: Oliveira
+    picture: /assets/images/uploads/6.png
   - description: ""
-    first-name: Nathalie
-    last-name: Gimenes
-    picture: /assets/images/uploads/photo-nathalie-gimenes.png
+    first-name: Salime
+    last-name: Nassur
+    picture: /assets/images/uploads/4.png
   - description: ""
-    first-name: Sharon
-    last-name: Sofer
-    picture: /assets/images/uploads/photo-sharon-sofer.png
-  - description: ""
-    first-name: Hervé
-    last-name: Alexandre
-    picture: /assets/images/uploads/photo-herve.png
-  - description: ""
-    first-name: Loubna
-    last-name: Ksibi
-    picture: /assets/images/uploads/photo-loubna.png
+    first-name: Samira
+    last-name: Laamouri
+    picture: /assets/images/uploads/5.png
