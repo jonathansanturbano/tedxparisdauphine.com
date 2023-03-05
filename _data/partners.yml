@@ -104,3 +104,12 @@ list:
     logo: /assets/images/uploads/sans-titre-2-.png
     name: Forbes France
     website: https://www.forbes.fr/
+  - name: Ubisoft
+    logo: /assets/images/uploads/ubisoft-logo.png
+    website: https://www.ubisoft.com/fr-fr/
+    description: "Bien qu’Ubisoft compte aujourd’hui 21 000 employés dans ses
+      bureaux et studios à travers le monde, tout a commencé avec une famille :
+      Yves Guillemot et ses quatre frères qui travaillaient dans l'agriculture
+      en Bretagne. Chez Ubisoft, ils souhaitent enrichir le quotidien de tout
+      les joueurs en développant des titres de grande qualité qui ne laissent
+      personne indifférent.."
