@@ -131,6 +131,32 @@ list:
 
       CAPFI est un modèle d'ESN unique qui regroupe 5 pôles d’expertise IT autour d’une vision commune : "Ensemble, créons avec audace un plus bel avenir pour le monde."
     logo: /assets/images/uploads/capfi.png
+  - name: Faguo
+    description: >-
+      Le constat est simple : au 21e siècle, personne ne veut vivre nu. À côté
+      de ça, chaque vêtement que l'on créé a un impact sur notre planète. Nous
+      continuerons donc de nous habiller mais devons tout entreprendre pour
+      mieux le faire, et plus raisonnablement.
+
+      En tant qu’entreprise à mission certifiée B CorpTM, ™, FAGUO engage sa génération contre le dérèglement climatique et habille ceux qui veulent vivre en ville comme en pleine forêt.
+
+      L'objectif n'est pas d'être les meilleurs du monde, mais meilleur pour le monde en s'améliorant constamment. Cette route est infinie. 
+
+      À travers la démarche de Faguo, découvre les différentes étapes d’adoption du statut d’entreprise à mission. Un nouveau statut pour les entreprises à but lucratif qui veulent placer plusieurs objectifs sociaux ou environnementaux au cœur de leur stratégie.
+    website: https://www.faguo-store.com/fr/content/category/2-notre-mission
+    logo: /assets/images/uploads/logo_faguo_bleu-2017-300x300.png
+  - name: Nêge Paris
+    website: https://nege-paris.com
+    logo: /assets/images/uploads/2.png
+    description: >-
+      Nêge Paris, c'est une nouvelle marque de pyjamas féminins
+      éco-responsables, aux imprimés uniques, entièrement co-créés sur Instagram
+      (@negeparis_ ). Des pyjamas à porter de nuit, comme de jour. En intérieur,
+      comme en extérieur. 
+
+      Nêge Paris prend en compte toutes les envies de leurs clientes et leur fait choisir chaque détail des pyjamas pour allier confort et élégance. Ils proposent même 2 longueurs de pantalon pour habiller toutes les longueurs de jambes.
+
+      Et ils limitent l’impact de leur pyjamas grâce à une matière écologique à base d’eucalyptus et idéale pour la nuit, des ateliers certifiés au Portugal, une livraison à vélo, ou encore en reversant une partie de leur CA à des associations choisies par leurs clientes.
   - description: >
       Nell'Armonia est une société de conseil et services, leader dans son
       domaine : le pilotage de la performance (EPM - Enterprise Performance
@@ -158,3 +184,15 @@ list:
     logo: /assets/images/uploads/sans-titre-7-.png
     name: Frenchweb
     website: https://www.frenchweb.fr
+  - description: >-
+      Meanwhile est une boutique en ligne de créateurs éco-responsables pour
+      offrir des alternatives
+
+      durables, éthiques et écologiques dans l’univers de la mode, les accessoires, la déco et le bien-être.
+
+      Meanwhile Boutique sélectionne des marques engagées en avec des critères indispensables :
+
+      Ethique & Transparence répondant à une charte éco-responsable de valeurs bien définies qui reposent sur 5 piliers principaux : l’anti-gaspillage, l’impact social et humain, la préservation des ressources et l’artisanat et les certifications et labels.
+    website: "https://meanwhile.boutique.com "
+    name: "Meanwhile Boutique "
+    logo: /assets/images/uploads/58e36f16.png
