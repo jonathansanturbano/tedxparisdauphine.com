@@ -114,11 +114,6 @@ list:
       ou tech). O&B Consulting rassemble une vingtaine de consultants en
       stratégie, M&A, projet et transformation."
     logo: /assets/images/uploads/o-b-consulting-photo.png
-  - description: Forbes, le média business à destination des entrepreneurs et
-      décisionnaires.
-    logo: /assets/images/uploads/sans-titre-2-.png
-    name: Forbes France
-    website: https://www.forbes.fr/
   - name: CAPFI
     website: https://www.capfi.fr
     description: >-
@@ -145,12 +140,6 @@ list:
       À travers la démarche de Faguo, découvre les différentes étapes d’adoption du statut d’entreprise à mission. Un nouveau statut pour les entreprises à but lucratif qui veulent placer plusieurs objectifs sociaux ou environnementaux au cœur de leur stratégie.
     website: https://www.faguo-store.com/fr/content/category/2-notre-mission
     logo: /assets/images/uploads/logo_faguo_bleu-2017-300x300.png
-  - name: GreenMa
-    description: Pour les amoureux de la Nature. GreenMa propose des thés et
-      infusions bio en feuilles entières alliant authenticité, écologie et
-      design.
-    website: https://www.greenma.fr/lhistoire/
-    logo: /assets/images/uploads/logo_greenma_cadeau-1.png
   - name: Nêge Paris
     website: https://nege-paris.com
     logo: /assets/images/uploads/2.png
@@ -163,14 +152,6 @@ list:
       Nêge Paris prend en compte toutes les envies de leurs clientes et leur fait choisir chaque détail des pyjamas pour allier confort et élégance. Ils proposent même 2 longueurs de pantalon pour habiller toutes les longueurs de jambes.
 
       Et ils limitent l’impact de leur pyjamas grâce à une matière écologique à base d’eucalyptus et idéale pour la nuit, des ateliers certifiés au Portugal, une livraison à vélo, ou encore en reversant une partie de leur CA à des associations choisies par leurs clientes.
-  - name: Alterfood
-    description: "Alterfood se donne pour raison d’être et mission de développer des
-      produits alimentaires responsables, des alternatives de consommation
-      engagées pour le bien-être des consommateurs, bénéfiques pour la santé,
-      traçables, n’utilisant aucune substance controversée, équitable dans leur
-      process de fabrication et impliquées dans le respect de l’environnement. "
-    website: https://www.alterfood.fr
-    logo: /assets/images/uploads/capture-d’écran-2023-03-06-à-01.53.55.png
   - description: >-
       Meanwhile est une boutique en ligne de créateurs éco-responsables pour
       offrir des alternatives
@@ -183,15 +164,6 @@ list:
     website: "https://meanwhile.boutique.com "
     name: "Meanwhile Boutique "
     logo: /assets/images/uploads/58e36f16.png
-  - name: Omie & Cie
-    description: Mieux manger pour changer le monde, c'est la mission d'Omie & Cie,
-      jeune marque alimentaire ultra engagée. Des bons produits, conçus avec des
-      producteurs locaux qu’Omie accompagne dans leur transition vers une
-      agriculture régénératrice des sols et des écosystèmes, et une transparence
-      complète sur l'origine des ingrédients et la rémunération des producteurs.
-      Vous ne regarderez plus vos cookies de la même façon !
-    website: https://www.omie.fr
-    logo: /assets/images/uploads/1624451979702kq9grliv.png
   - name: Wecasa
     description: >-
       Wecasa, c'est d'abord l'histoire du club des 5. Pierre, Antoine, Fabien,
@@ -217,6 +189,34 @@ list:
     logo: /assets/images/uploads/logo_nellarmonia-1-.png
     name: Nell'Armonia
     website: https://www.nellarmonia.com/
+  - name: Omie & Cie
+    description: Mieux manger pour changer le monde, c'est la mission d'Omie & Cie,
+      jeune marque alimentaire ultra engagée. Des bons produits, conçus avec des
+      producteurs locaux qu’Omie accompagne dans leur transition vers une
+      agriculture régénératrice des sols et des écosystèmes, et une transparence
+      complète sur l'origine des ingrédients et la rémunération des producteurs.
+      Vous ne regarderez plus vos cookies de la même façon !
+    website: https://www.omie.fr
+    logo: /assets/images/uploads/1624451979702kq9grliv.png
+  - name: Alterfood
+    description: "Alterfood se donne pour raison d’être et mission de développer des
+      produits alimentaires responsables, des alternatives de consommation
+      engagées pour le bien-être des consommateurs, bénéfiques pour la santé,
+      traçables, n’utilisant aucune substance controversée, équitable dans leur
+      process de fabrication et impliquées dans le respect de l’environnement. "
+    website: https://www.alterfood.fr
+    logo: /assets/images/uploads/capture-d’écran-2023-03-06-à-01.53.55.png
+  - name: GreenMa
+    description: Pour les amoureux de la Nature. GreenMa propose des thés et
+      infusions bio en feuilles entières alliant authenticité, écologie et
+      design.
+    website: https://www.greenma.fr/lhistoire/
+    logo: /assets/images/uploads/logo_greenma_cadeau-1.png
+  - description: Forbes, le média business à destination des entrepreneurs et
+      décisionnaires.
+    logo: /assets/images/uploads/sans-titre-2-.png
+    name: Forbes France
+    website: https://www.forbes.fr/
   - description: Depuis 10 ans FW identifie les nouvelles tendances, découvre les
       innovations qui impactent de nombreux secteurs, santé, transport, retail,
       agriculture, énergie, telecom... et les décode au quotidien. Destiné aux
