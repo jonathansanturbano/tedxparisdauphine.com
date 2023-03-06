@@ -10,40 +10,6 @@ list:
     logo: /assets/images/uploads/dauphine-logo-site-ted.png
     name: Université Paris Dauphine - PSL
     website: http://www.dauphine.fr/
-  - name: Ubisoft
-    logo: /assets/images/uploads/ubisoft-logo.png
-    website: https://www.ubisoft.com/fr-fr/
-    description: "Bien qu’Ubisoft compte aujourd’hui 21 000 employés dans ses
-      bureaux et studios à travers le monde, tout a commencé avec une famille :
-      Yves Guillemot et ses quatre frères qui travaillaient dans l'agriculture
-      en Bretagne. Chez Ubisoft, ils souhaitent enrichir le quotidien de tout
-      les joueurs en développant des titres de grande qualité qui ne laissent
-      personne indifférent.."
-  - name: O&B Consulting
-    website: https://ob-consulting.eu
-    description: "O&B est un Cabinet de Conseil qui offre ses services sur les
-      secteurs en pleine mutation: Assurance, Mutuelles, Protection Sociale, et
-      Banque et Finance. Leur vocation est d'accompagner leurs clients issus des
-      grands COMEX dans les moments clés de leur développement: stratégie de
-      croissance (nouveaux produits, nouvelle attractivité client, levées de
-      fonds, valorisation d'entreprises et opérations de M&A); transformationnel
-      mutation des modèles (business ou opérationnels); et innovation (produits
-      ou tech). O&B Consulting rassemble une vingtaine de consultants en
-      stratégie, M&A, projet et transformation!"
-    logo: /assets/images/uploads/o-b-consulting-photo.png
-  - name: PARIS MARRIOTT OPERA AMBASSADOR HOTEL
-    logo: /assets/images/uploads/marriott.png
-    website: https://www.marriott.com/fr/hotels/paroa-paris-marriott-opera-ambassador-hotel/overview/
-    description: Découvrez le charme captivant qui émane de la Ville Lumière au
-      Paris Marriott Opera Ambassador Hotel. Notre hôtel au centre de Paris est
-      idéalement situé au coeur du quartier de l'Opéra, proche de sites
-      parisiens emblématiques. Prenez le temps d'explorer tous les avantages de
-      notre hôtel, parmi lesquels une salle de sport, un salon Executive avec
-      une vue panoramique sur la ville et une délicieuse brasserie
-      contemporaine. Le soir, vous pourrez vous reposer dans une chambre au
-      design méticuleusement réfléchi. Si vous organisez  un  événement,
-      profitez des prestigieuses salles de notre hôtel. Nous sommes impatients
-      de vous recevoir!
   - description: >
       LVMH réunit 75 Maisons d'exception, au sein de 6 secteurs d’activité :
       Vins & Spiritueux, Mode & Maroquinerie, Parfums & Cosmétiques, Montres &
@@ -55,6 +21,26 @@ list:
     logo: /assets/images/uploads/sans-titre-3-.png
     name: LVMH
     website: https://www.lvmh.fr/
+  - name: Ubisoft
+    logo: /assets/images/uploads/ubisoft-logo.png
+    website: https://www.ubisoft.com/fr-fr/
+    description: "Bien qu’Ubisoft compte aujourd’hui 21 000 employés dans ses
+      bureaux et studios à travers le monde, tout a commencé avec une famille :
+      Yves Guillemot et ses quatre frères qui travaillaient dans l'agriculture
+      en Bretagne. Chez Ubisoft, ils souhaitent enrichir le quotidien de tout
+      les joueurs en développant des titres de grande qualité qui ne laissent
+      personne indifférent."
+  - name: RedBull
+    logo: /assets/images/uploads/redbull.png
+    website: https://www.redbull.com/fr-fr/
+    description: "Dietrich Mateschitz, inspiré par les boissons fonctionnelles
+      d'Extrême-Orient, fonde Red Bull au milieu des années 1980. Outre un
+      nouveau produit, il conçoit aussi un concept unique de marketing et lance
+      Red Bull en Autriche le 1er avril 1987. Une catégorie de produits
+      entièrement nouvelle est née : les boissons énergisantes. Red Bull Energy
+      Drink est une boisson appréciée dans le monde entier par les athlètes de
+      haut niveau, les étudiants, ceux qui ont des métiers très exigeants et
+      durant les longs trajets en voiture."
   - description: >
       AXA Group Operations est le "coeur" technologique du Groupe AXA et le
       moteur de sa transformation digitale.
@@ -69,6 +55,41 @@ list:
     logo: /assets/images/uploads/sans-titre-4-.png
     name: AXA Group Operations
     website: https://www.linkedin.com/company/axa-group-operations/
+  - name: "Paris Marriott Opera Ambassador Hotel "
+    logo: /assets/images/uploads/marriott.png
+    website: https://www.marriott.com/fr/hotels/paroa-paris-marriott-opera-ambassador-hotel/overview/
+    description: Découvrez le charme captivant qui émane de la Ville Lumière au
+      Paris Marriott Opera Ambassador Hotel. Cet hôtel au centre de Paris est
+      idéalement situé au coeur du quartier de l'Opéra, proche de sites
+      parisiens emblématiques. Prenez le temps d'explorer tous les avantages de
+      l'hôtel, parmi lesquels une salle de sport, un salon Executive avec une
+      vue panoramique sur la ville et une délicieuse brasserie contemporaine. Le
+      soir, vous pourrez vous reposer dans une chambre au design méticuleusement
+      réfléchi. Si vous organisez un événement, profitez des prestigieuses
+      salles de l'hôtel.
+  - name: Lush
+    website: https://weare.lush.com/fr/la-vie-selon-lush/notre-entreprise/qui-sommes-nous/?_gl=1*1rxfv8l*_ga*NTM5OTM5MjM1LjE2NzgwNjI3MTE.*_ga_E68EJV3RYF*MTY3ODA2MjcxMC4xLjAuMTY3ODA2MjcxMi41OC4wLjA.
+    description: "Lush propose des cosmétiques frais faits main, 100% végétariens et
+      non testés sur les animaux depuis 1995. Marque pionnière de la cosmétique
+      éthique et responsable, Lush a été créée par 6 passionné·e·s de
+      cosmétiques et militant·e·s de la cause animale dans le but de proposer
+      une alternative responsable aux cosmétiques traditionnels. Lush développe
+      des produits de beauté innovants et performants, basés sur un concept
+      unique : une confection à la main et l’utilisation d’ingrédients frais
+      tels que des fruits et légumes, ainsi que des herbes, des fleurs et des
+      huiles essentielles sourcés avec éthique."
+    logo: /assets/images/uploads/lush-logoblack.jpg
+  - name: SAP
+    website: https://www.sap.com/france/index.html
+    description: "Figurant parmi les leaders du marché des logiciels professionnels,
+      SAP aide les entreprises de toute taille et de tout secteur à rester
+      performantes : 77 % des recettes des transactions effectuées dans le monde
+      sont liées à un système SAP. Leurs technologies de Machine Learning, d'IoT
+      et d'analytique avancée aident leurs clients à transformer leur entreprise
+      en entreprise intelligente. Leur suite complète d'applications et de
+      services permet à leurs clients d'opérer de façon rentable, de s'adapter
+      continuellement et d'apporter leur pierre à l'édifice. "
+    logo: /assets/images/uploads/sap-logo-2048x1161.jpg
   - description: >-
       Oracle Cloud propose une suite complète d’applications intégrées pour les
       ventes, les services, le marketing, les ressources humaines, la finance,
@@ -81,6 +102,35 @@ list:
     logo: /assets/images/uploads/sans-titre-5-.png
     name: Oracle
     website: https://www.oracle.com/fr/index.html
+  - name: O&B Consulting
+    website: https://ob-consulting.eu
+    description: "O&B est un Cabinet de Conseil qui offre ses services sur les
+      secteurs en pleine mutation: Assurance, Mutuelles, Protection Sociale, et
+      Banque et Finance. Leur vocation est d'accompagner leurs clients issus des
+      grands COMEX dans les moments clés de leur développement: stratégie de
+      croissance (nouveaux produits, nouvelle attractivité client, levées de
+      fonds, valorisation d'entreprises et opérations de M&A); transformationnel
+      mutation des modèles (business ou opérationnels); et innovation (produits
+      ou tech). O&B Consulting rassemble une vingtaine de consultants en
+      stratégie, M&A, projet et transformation."
+    logo: /assets/images/uploads/o-b-consulting-photo.png
+  - description: Forbes, le média business à destination des entrepreneurs et
+      décisionnaires.
+    logo: /assets/images/uploads/sans-titre-2-.png
+    name: Forbes France
+    website: https://www.forbes.fr/
+  - name: CAPFI
+    website: https://www.capfi.fr
+    description: >-
+      Issus de formations académiques complémentaires, école d'ingénieurs et
+      école de commerce, Olivier & Rodolphe ont fondé CAPFI en 2005 avec cette
+      ambition de créer une ESN où la dimension humaine demeure le poumon de
+      leur activité.
+
+      Ils pensent que l’entreprise doit être un lieu d’accomplissement de soi et de plaisir partagé ; ils croient en l'éthique, la confiance et l'authenticité.
+
+      CAPFI est un modèle d'ESN unique qui regroupe 5 pôles d’expertise IT autour d’une vision commune : "Ensemble, créons avec audace un plus bel avenir pour le monde."
+    logo: /assets/images/uploads/capfi.png
   - description: >
       Nell'Armonia est une société de conseil et services, leader dans son
       domaine : le pilotage de la performance (EPM - Enterprise Performance
@@ -108,8 +158,3 @@ list:
     logo: /assets/images/uploads/sans-titre-7-.png
     name: Frenchweb
     website: https://www.frenchweb.fr
-  - description: Forbes, le média business à destination des entrepreneurs et
-      décisionnaires.
-    logo: /assets/images/uploads/sans-titre-2-.png
-    name: Forbes France
-    website: https://www.forbes.fr/
