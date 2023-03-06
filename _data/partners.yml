@@ -175,6 +175,32 @@ list:
       70 collaborateurs et un collectif de 5000 pros plus tard, Wecasa est devenue la référence des services à domicile. C'est l'offre 7j/7 d'aide et de bien-être à domicile. Avec plus de 100 000 clients heureux, l'aventure continue partout en France et maintenant à l'étranger.
     website: https://www.wecasa.fr
     logo: /assets/images/uploads/logo-header-e394c584078509790b535eb960e4b3f4bf279350ec84089bd8f80a3a779773e7.png
+  - description: >+
+      Angélique, fondatrice de Ma Beauté Bio, a pour volonté de proposer des
+      produits cosmétiques répondant aux critères suivants : une fabrication
+      française pour réduire l’empreinte carbone, des ingrédients naturels et
+      bio sans ingrédients nocifs, et des contenants biodégradables, recyclables
+      et issus de matériaux recyclés. Venant du monde de la cosmétique, c’est en
+      travaillant pour de grandes marques qu'elle a pris conscience que
+      celles-ci oubliaient la santé du consommateur et l'environnement. Ce
+      constat lui a donné l’envie de parvenir à marier une attitude
+      éco-responsable avec des produits de qualité. 
+
+    website: https://mabeautebio.fr/content/4-qui-sommes-nous-
+    name: Ma Beauté Bio
+    logo: /assets/images/uploads/prestashop-logo-1614847670.jpg.png
+  - name: The Trust Society
+    description: "Le concept : aider chaque personne à se passer de plastique en
+      regroupant dans la même boutique les meilleures alternatives sans
+      plastique à tous les produits du quotidien. Sans plastique, et sans
+      ingrédients imprononçables à l’intérieur. Sans plastique, à la condition
+      de rester pratiques. Sans plastique, mais surtout fabriquées en France,
+      par des producteurs et productrices sur lesquels nous pourrons toujours
+      mettre un prénom, un visage, une histoire. En trois mots, des alternatives
+      sans plastique saines, efficaces et engagées. Les essentiels du quotidien,
+      le plastique en moins."
+    website: https://thetrustsociety.fr/pages/concept
+    logo: /assets/images/uploads/thetrustsociety_logo.png
   - description: >
       Nell'Armonia est une société de conseil et services, leader dans son
       domaine : le pilotage de la performance (EPM - Enterprise Performance
@@ -212,6 +238,12 @@ list:
       design.
     website: https://www.greenma.fr/lhistoire/
     logo: /assets/images/uploads/logo_greenma_cadeau-1.png
+  - name: Here We Flo
+    website: https://www.hereweflo.fr/pages/a-propos
+    description: "La mission des deux fondatrices Tara et Susan demeure la même
+      depuis l'origine de FLO : proposer des protections périodiques fiables et
+      fun qui redonnent confiance et boostent le moral des femmes."
+    logo: /assets/images/uploads/untitled_design_20.png
   - description: Forbes, le média business à destination des entrepreneurs et
       décisionnaires.
     logo: /assets/images/uploads/sans-titre-2-.png
