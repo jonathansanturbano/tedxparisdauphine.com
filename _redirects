@@ -1,3 +1,3 @@
 # Redirect default Netlify subdomain to primary domain
-http://cool-creponne-d990f8.netlify.app/* http://tedxparisdauphine.com/:splat 301!
-https://cool-creponne-d990f8.netlify.app/* https://tedxparisdauphine.com/:splat 301!
+http://tedxparisdauphine.netlify.com http://tedxparisdauphine.com 301!
+https://tedxparisdauphine.netlify.com https://tedxparisdauphine.com 301!
