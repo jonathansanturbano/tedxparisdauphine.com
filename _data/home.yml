@@ -6,11 +6,11 @@ regular:
 ticketing:
   cover-image: /assets/images/uploads/1-copie-2.png
   heading: |-
-    TEDx revient à Dauphine pour sa 8ème édition !!
+    TEDx revient à Dauphine pour sa 9ème édition !!
 
-    Rendez-vous **le mercredi 29 mars 2023 à 19h** !
+    Rendez-vous **le mercredi 06 mars 2023 à 19h** !
   subheading: Prenez dès maintenant vos billets !
-latest-edition: 2022
+latest-edition: "2022"
 speakers:
   - description: ""
     first-name: Fabien
